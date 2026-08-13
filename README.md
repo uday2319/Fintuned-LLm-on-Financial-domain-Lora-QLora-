@@ -41,7 +41,7 @@ Fine-Tuning
 Financial Domain Model
 ```
 
-##** 🛠️ Technologies**
+## 🛠️ **Technologies**
 
 * Python
 * PyTorch
