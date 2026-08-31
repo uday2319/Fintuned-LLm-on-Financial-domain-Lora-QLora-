@@ -125,13 +125,5 @@ financial-llm-finetuning/
 └── .gitignore
 ```
 
-##**Future Improvements**
-
-* Increase the size and quality of the training dataset
-* Add a validation/test dataset
-* Compare base model vs fine-tuned model
-* Add evaluation metrics
-* Reduce hallucinations
-* Experiment with different LoRA configurations
-* Compare LoRA vs QLoRA performance
+ 
 
